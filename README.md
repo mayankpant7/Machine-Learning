@@ -6,7 +6,7 @@ If there is no data preprocessing then your machine learning model will not be t
 
 As per real time industry there is exact 7 steps in data preprocessing :
 
-1 Get the dataset
+1. Get the dataset
 
 2. Importing the library
 
