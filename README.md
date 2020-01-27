@@ -3,13 +3,21 @@
 ## Data Preprocessing :
 It is the most critical step in the journey of machine learning . 
 If there is no data preprocessing then your machine learning model will not be that much be efficient so if you want efficient ml model , your first step should be data preprocessing.
+
 As per real time industry there is exact 7 steps in data preprocessing :
+
 1 Get the dataset
+
 2. Importing the library
+
 3. inporting the dataset
+
 4. mixing dataset
+
 5. categorical data 
+
 6. splitting the dataset into thraining and test set
+
 7. Feature scaling
 
 ## 1.Get the dataset : 
